@@ -10,27 +10,27 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/gvaldovi/
-L56-sistema-compras-ventas-con-vue/master/public/img/capturas/1.png" >
+L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/1.png" >
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/gvaldovi/
-L56-sistema-compras-ventas-con-vue/master/public/img/capturas/2.png" >
+L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/2.png" >
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/gvaldovi/
-L56-sistema-compras-ventas-con-vue/master/public/img/capturas/3.png" >
+L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/3.png" >
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/gvaldovi/
-L56-sistema-compras-ventas-con-vue/master/public/img/capturas/4.png" >
+L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/4.png" >
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/gvaldovi/
-L56-sistema-compras-ventas-con-vue/master/public/img/capturas/5.png" >
+L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/5.png" >
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/gvaldovi/
-L56-sistema-compras-ventas-con-vue/master/public/img/capturas/6.png" >
+L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/1.png6.png" >
 </p>
 
 ## About Laravel
