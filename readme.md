@@ -27,8 +27,6 @@
 <img src="https://raw.githubusercontent.com/gvaldovi/L56-sistema-compras-ventas-con-vue/master/resources/assets/capturas/6.png" >
 </p>
 p>
-<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/1.png" >
-</p>
 
 ## About Laravel
 
